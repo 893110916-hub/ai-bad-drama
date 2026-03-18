@@ -1,0 +1,13 @@
+# MongoDB 数据库连接
+MONGODB_URI=mongodb+srv://948981697zax_db_user:calHHf0Kczgehqhr@cluster0.s9qhf31.mongodb.net/ai-bad-drama?retryWrites=true&w=majority&ssl=true
+
+# Cloudinary 云存储
+CLOUDINARY_CLOUD_NAME=dmcp0ohli
+CLOUDINARY_API_KEY=496983793336765
+CLOUDINARY_API_SECRET=xjcRwCHzg9-HZwendehiBXZQBMc
+
+# 管理员密码（自己设置，用于访问 /admin 页面）
+ADMIN_PASSWORD=your_admin_password_123
+
+# 可选：Next.js 配置
+NEXT_PUBLIC_API_URL=
